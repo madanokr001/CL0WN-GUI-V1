@@ -1,9 +1,8 @@
 --[=[
-  ____ _  _____        __     
- / ___| |/ _ \ \      / / __  
-| |   | | | | \ \ /\ / / '_ \ 
-| |___| | |_| |\ V  V /| | | |
- \____|_|\___/  \_/\_/ |_| |_| by madanokr001
+  __________ _      __   
+ / ___/ / _ \ | /| / /__ 
+/ /__/ / // / |/ |/ / _ \
+\___/_/\___/|__/|__/_//_/  by madanokr001
 ]=]
 
 -- Instances: 18 | Scripts: 6 | Modules: 0 | Tags: 0
@@ -18,7 +17,7 @@ G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:Wait
 G2L["2"] = Instance.new("Frame", G2L["1"]);
 G2L["2"]["BorderSizePixel"] = 0;
 G2L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["2"]["Size"] = UDim2.new(0, 646, 0, 401);
+G2L["2"]["Size"] = UDim2.new(0, 842, 0, 401);
 G2L["2"]["Position"] = UDim2.new(0.0123, 0, 0.2331, 0);
 G2L["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 
@@ -28,7 +27,7 @@ G2L["3"] = Instance.new("ImageButton", G2L["1"]);
 G2L["3"]["BorderSizePixel"] = 0;
 G2L["3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["3"]["Image"] = [[http://www.roblox.com/asset/?id=134376365714122]];
-G2L["3"]["Size"] = UDim2.new(0, 646, 0, 401);
+G2L["3"]["Size"] = UDim2.new(0, 842, 0, 401);
 G2L["3"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["3"]["Position"] = UDim2.new(0.01176, 0, 0.2331, 0);
 
